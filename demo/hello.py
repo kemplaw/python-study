@@ -1,3 +1,6 @@
-a = 1
+mood = False
 
-print(a)
+if mood:
+    print('go to left')
+else:
+    print('go to right')
